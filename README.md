@@ -40,7 +40,7 @@ The analysis covers various **statistical and visual insights** to explore fundi
 #### **📈 Line Chart: Award Trends Over Time**
 Shows the changes in award amounts from **1984 to 2022**, highlighting trends in funding distribution.
 
-![Award Trends](images/LinearRegression.png)
+![Award Trends](LinearRegression.png)
 
 ---
 
@@ -50,9 +50,7 @@ The project explores multiple research questions using **statistical hypothesis 
 ### **🧑‍🤝‍🧑 HYPOTHESIS #1: Social Disadvantage & Award Amounts**
 - **Question:** Do socially disadvantaged businesses receive higher funding?  
 - **Test Used:** **Two-tailed two-sample t-test**  
-- **Result:** The p-value (**0.00000258**) is **statistically significant**, meaning **socially disadvantaged businesses receive higher average award amounts**.  
-
-![Social Disadvantage vs Non-Disadvantage](images/Q_QPlot.png)
+- **Result:** The p-value (**0.00000258**) is **statistically significant**, meaning **socially disadvantaged businesses receive higher average award amounts**. 
 
 ---
 
@@ -69,7 +67,7 @@ The project explores multiple research questions using **statistical hypothesis 
 
 #### **📊 Q-Q Plot for Normality**
 ![Q-Q Plot](images/Q_QPlot.png)
-![HHS Solicitations](images/PredictiveModel.png)
+![HHS Solicitations](PredictiveModel.png)
 
 ---
 
