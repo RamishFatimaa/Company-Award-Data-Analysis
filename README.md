@@ -30,18 +30,14 @@ The analysis covers various **statistical and visual insights** to explore fundi
 - **Converted categorical variables** into factors for analysis.
 - **Dropped high-missing-value columns** to improve data integrity.
 - #### **📉 Missing Values Analysis**
-![Missing Values](images/MissingValues.png)
+![Missing Values](MissingValues.png)
 
 ### **📊 Funding Trends Over Time**
 - **What was the distribution of grants from 1984 to 2022?**
 - **Which agencies contributed the most in North Carolina (NC) and Alabama (AL)?**
 - **How did funding change over the years?**
 
-#### **📈 Line Chart: Award Trends Over Time**
-Shows the changes in award amounts from **1984 to 2022**, highlighting trends in funding distribution.
-
 ![Award Trends](LinearRegression.png)
-
 ---
 
 ## **📊 Hypothesis Testing**
